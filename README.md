@@ -48,22 +48,22 @@ Este repositorio agrupa los ejercicios básicos de **HTML y CSS** de freeCodeCam
 | 02 Cafe Menu |[📂](https://github.com/AnaJotta/ResponsiveWebDesign/tree/master/02.%20MenuCafeteriaWeb)| Menú de cafetería con diseño en HTML y CSS |
 | 03 Color Markers |[📂](https://github.com/AnaJotta/ResponsiveWebDesign/tree/master/03.%20MarcadorColores)| Marcadores de colores con uso más amplio CSS  |
 | 04 Registration Form |[📂](https://github.com/AnaJotta/ResponsiveWebDesign/tree/master/04.%20FormularioRegistro)| Formulario de registro con HTML y CSS  |
-| 🏅 05 Survey Form Certification Project 🏅 |[📂](https://github.com/AnaJotta/ResponsiveWebDesign/tree/master/05.%20ProyectoCertificacionFormularioEncuesta)| Formulario de Encuesta. *** Creación del Proyecto de certificación ***  |
+| 🏅 05 Survey Form Certification Project 🏅 |[📂](https://github.com/AnaJotta/ResponsiveWebDesign/tree/master/05.%20ProyectoCertificacionFormularioEncuesta)| ***Creación del Proyecto de certificación:*** Formulario de Encuesta.  |
 | 06 Rothko Paint |📂| Reproducción del cuadro de Mark Rothko con CSS |
 | 07 Flexbox Photo Gallery |📂| Galería de fotos con flexbox |
 | 08 Nutritional Label |📂| Uso de tipografías para una tabla nutricional |
 | 09 Quiz |📂| Construir un cuestionario |
-| 🏅 10 Tribute Page 🏅 |📂| Página de tributo. *** Creación del Proyecto de certificación *** |
+| 🏅 10 Tribute Page 🏅 |📂| ***Creación del Proyecto de certificación:*** Página de tributo  |
 | 11 Balance Sheet |📂| Construir un Balance Financiero para practicar pseudoselectores |
 | 12 Cat Painting |📂| Dibujo de gato |
 | 13 Piano Painting |📂| Dibujo de un piano |
-| 🏅 14 Technical Documentation 🏅 |📂| Página de Documentación Técnica *** Creación del Proyecto de certificación *** |
+| 🏅 14 Technical Documentation 🏅 |📂|  ***Creación del Proyecto de certificación:*** Página de Documentación Técnica |
 | 15 CSS Variables by Building a Skyline |📂| Construir el Rascacielos de una ciudad para practicar variables de CSS |
 | 16 CSS Grid by Building a Magazine |📂| Construir una revista para aprender Grid |
-| 🏅 17 Product Landing Page 🏅 |📂| Producto Landing Page *** Creación del Proyecto de certificación *** |
+| 🏅 17 Product Landing Page 🏅 |📂|  ***Creación del Proyecto de certificación:*** Producto Landing Page|
 | 18 CSS Animation by Building a Ferris Wheel |📂| Construir una noria para aprende animaciones en CSS |
 | 19 CSS Transforms by Building a Penguin |📂| Construir un pinguino para aprende animaciones en CSS |
-| 🏅 20 Personal Portfolio Webpage 🏅 |📂| Portfolio personal *** Creación del Proyecto de certificación ***|
+| 🏅 20 Personal Portfolio Webpage 🏅 |📂|  ***Creación del Proyecto de certificación:*** Portfolio personal |
 
 
 ---
