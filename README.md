@@ -60,7 +60,6 @@ Accesibilidad básica
 
 📂 Estructura del repositorio
 ResponsiveWebDesign/<br>
-│
 ├── CatPhotoApp/<br>
 ├── FormularioRegistro/<br>
 ├── MarcadorColores/<br>
