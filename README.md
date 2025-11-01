@@ -26,8 +26,6 @@ El repositorio contiene las siguientes carpetas, cada una con un proyecto indepe
 - **MarcadorColores/** → Proyecto con selectores CSS y uso de propiedades visuales.  
 - **MenuCafeteriaWeb/** → Página que representa el menú de una cafetería con estilo propio.
 
-Cada carpeta incluye sus propios archivos (`index.html`, `style.css`, etc.) para visualizar el proyecto de manera independiente.
-
 ---
 
 ## 🧭 Objetivo
@@ -90,10 +88,11 @@ Este repositorio agrupa los ejercicios básicos de **HTML y CSS** de freeCodeCam
 
 📂 Estructura del repositorio
 ResponsiveWebDesign/<br>
-├── CatPhotoApp/<br>
-├── FormularioRegistro/<br>
-├── MarcadorColores/<br>
-├── MenuCafeteriaWeb/<br>
+├── 01. CatPhotoApp/<br>
+├── 02. FormularioRegistro/<br>
+├── 03. MarcadorColores/<br>
+├── 04. MenuCafeteriaWeb/<br>
+├── 05. ProyectoCertificaciónFormularioEncuesta/<br>
 └── README.md<br>
 
 ---
