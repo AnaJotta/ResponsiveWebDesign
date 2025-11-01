@@ -49,15 +49,15 @@ Este repositorio agrupa los ejercicios básicos de **HTML y CSS** de freeCodeCam
 
 - Conceptos trabajados:
 
-<&nbsp><&nbsp>Estructura semántica
+    Estructura semántica
 
-<&nbsp><&nbsp>Formularios
+    Formularios
 
-<&nbsp><&nbsp>Selectores y propiedades CSS
+    Selectores y propiedades CSS
 
-<&nbsp><&nbsp>Diseño adaptable (responsive design)
+    Diseño adaptable (responsive design)
 
-<&nbsp><&nbsp>Accesibilidad básica
+    Accesibilidad básica
 
 ---
 
