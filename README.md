@@ -59,7 +59,7 @@ Diseño adaptable (responsive design)
 Accesibilidad básica
 
 📂 Estructura del repositorio
-ResponsiveWebDesign/
+ResponsiveWebDesign/<br>
 │
 ├── CatPhotoApp/<br>
 ├── FormularioRegistro/<br>
@@ -69,6 +69,6 @@ ResponsiveWebDesign/
 
 ## 📬 Contacto
 Autor: [Ana Jotta](https://github.com/AnaJotta)<br>
-Repositorio principal: [ResponsiveWebDesign](https://github.com/AnaJotta/ResponsiveWebDesign)<br>
+Repositorio principal: [ResponsiveWebDesign](https://github.com/AnaJotta/ResponsiveWebDesign)<br><br>
 Correo / redes: [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anajessicamarinmorales@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j-marin-morales/)
