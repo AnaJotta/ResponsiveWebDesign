@@ -40,6 +40,7 @@ Este repositorio agrupa los ejercicios básicos de **HTML y CSS** de freeCodeCam
 - Familiarizarse con la organización de proyectos y control de versiones en GitHub.
 
 ---
+
 🛠 Tecnologías utilizadas
 
 - Lenguajes: HTML5, CSS3
@@ -48,15 +49,17 @@ Este repositorio agrupa los ejercicios básicos de **HTML y CSS** de freeCodeCam
 
 - Conceptos trabajados:
 
-Estructura semántica
+<&nbsp><&nbsp>Estructura semántica
 
-Formularios
+<&nbsp><&nbsp>Formularios
 
-Selectores y propiedades CSS
+<&nbsp><&nbsp>Selectores y propiedades CSS
 
-Diseño adaptable (responsive design)
+<&nbsp><&nbsp>Diseño adaptable (responsive design)
 
-Accesibilidad básica
+<&nbsp><&nbsp>Accesibilidad básica
+
+---
 
 📂 Estructura del repositorio
 ResponsiveWebDesign/<br>
@@ -65,6 +68,8 @@ ResponsiveWebDesign/<br>
 ├── MarcadorColores/<br>
 ├── MenuCafeteriaWeb/<br>
 └── README.md<br>
+
+---
 
 ## 📬 Contacto
 Autor: [Ana Jotta](https://github.com/AnaJotta)<br>
