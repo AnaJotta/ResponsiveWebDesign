@@ -1,0 +1,45 @@
+<h1 id="title">Student Registration Form</h1>
+<p id="description">Please fill out the form below with accurate information.</p>
+
+<form id="survey-form">
+  <!-- Nombre -->
+  <label id="name-label" for="name">Name:</label>
+  <input id="name" type="text" name="name" placeholder="Enter your full name" required>
+
+  <!-- Email -->
+  <label id="email-label" for="email">Email:</label>
+  <input id="email" type="email" name="email" placeholder="Enter your email" required>
+
+  <!-- Edad -->
+  <label id="number-label" for="number">Age (optional):</label>
+  <input id="number" type="number" name="age" placeholder="Enter your age" min="10" max="100">
+
+  <!-- Selección -->
+  <label for="dropdown">Which option best describes your current role?</label>
+  <select id="dropdown" name="role">
+    <option value="">Select current role</option>
+    <option value="student">Student</option>
+    <option value="job">Full Time Job</option>
+    <option value="learner">Full Time Learner</option>
+  </select>
+
+  <!-- Radios -->
+  <p>Would you recommend freeCodeCamp to a friend?</p>
+  <label><input type="radio" name="recommend" value="definitely"> Definitely</label>
+  <label><input type="radio" name="recommend" value="maybe"> Maybe</label>
+  <label><input type="radio" name="recommend" value="not-sure"> Not sure</label>
+
+  <!-- Checkboxes -->
+  <p>What would you like to improve? (Check all that apply)</p>
+  <label><input type="checkbox" name="improve" value="front-end"> Front-end Projects</label>
+  <label><input type="checkbox" name="improve" value="back-end"> Back-end Projects</label>
+  <label><input type="checkbox" name="improve" value="data-visualization"> Data Visualization</label>
+
+  <!-- Comentarios -->
+  <p>Any comments or suggestions?</p>
+  <textarea name="comments" placeholder="Enter your comment here..."></textarea>
+
+  <!-- Botón de envío -->
+  <button id="submit" type="submit">Submit</button>
+</form>
+
